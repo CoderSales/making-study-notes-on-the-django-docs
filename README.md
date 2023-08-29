@@ -10,9 +10,9 @@ ____
 pip --version
 ```
 
-[from: `stackoverflow` | [upgrade pip](https://stackoverflow.com/questions/15221473/how-do-i-update-upgrade-pip-itself-from-inside-my-virtual-environment)]
+([from: `stackoverflow` | upgrade pip](https://stackoverflow.com/questions/15221473/how-do-i-update-upgrade-pip-itself-from-inside-my-virtual-environment))
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   
 
 ```bash
 python -m pip install --upgrade pip
